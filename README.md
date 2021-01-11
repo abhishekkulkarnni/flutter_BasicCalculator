@@ -11,4 +11,8 @@
 
 ## _App Screenshots :_
 
+<img src="https://user-images.githubusercontent.com/47983955/104146137-ac6c4d00-53ef-11eb-839e-f14e891df3ce.jpg" width="500" height="800"/>
+
+<img src="https://user-images.githubusercontent.com/47983955/104146140-ad9d7a00-53ef-11eb-8a10-4ab06d6a70ce.jpg" width="500" height="800"/>
+
 
